@@ -351,18 +351,18 @@
             "registrationId": 654131104,
             "currentRatchet": {
               "ephemeralKeyPair": {
-                "pubKey": "BS+C2H5sRqXYPk01f0sih1DCrmWTzqjuoL4Ymu4qXgwV",
-                "privKey": "uAlB95lCD4pN/n+/AqMrTV3Eo1bIwNP5lqEy77laK00="
+                "pubKey": "BQIuCvEsQ1l2oqI0Ob41jRYNfxMnlxIzxKIfXQFC2Jso",
+                "privKey": "2FKMa86N3lZlWPJGp9d5jZmzUQ0NqOWX70/HxrxK9Fg="
               },
-              "lastRemoteEphemeralKey": "Be9i1i3M+rfnazxPZ4eoz4uHu9VNjG5wIvn2u9b20iQ/",
-              "previousCounter": 1,
-              "rootKey": "CXwQLFyJDMa2BqMEGsDPyx48UF0rI6TcdOlrz6Or40c="
+              "lastRemoteEphemeralKey": "BY1SSW5bSJc1/Hgj/dE3zGqn5yAM0m448RtiTdtjo3th",
+              "previousCounter": 11,
+              "rootKey": "Wf7GhpVLxdccfUDSFzYKbDemNul5wMBWAe0RNoZrcDw="
             },
             "indexInfo": {
               "baseKey": "Ba1leKbLzBeMbBkJ29CApGuzHKqTAl/1ywV8asNor31y",
               "baseKeyType": 2,
               "closed": -1,
-              "used": 1671684637966,
+              "used": 1671684755595,
               "created": 1671684624282,
               "remoteIdentityKey": "BS3hJ7FaVZ6eAF9j5US+KNdrAvSRpS/wao+jpDv83ME4"
             },
@@ -383,16 +383,23 @@
               },
               "Be9i1i3M+rfnazxPZ4eoz4uHu9VNjG5wIvn2u9b20iQ/": {
                 "chainKey": {
-                  "counter": 0,
-                  "key": "lOME/t0qa79VLjbrmW7idgo18NYjsSc1UtSDKgt7wTc="
+                  "counter": 0
                 },
                 "chainType": 2,
                 "messageKeys": {}
               },
-              "BS+C2H5sRqXYPk01f0sih1DCrmWTzqjuoL4Ymu4qXgwV": {
+              "BY1SSW5bSJc1/Hgj/dE3zGqn5yAM0m448RtiTdtjo3th": {
                 "chainKey": {
-                  "counter": 9,
-                  "key": "D1PsqAx4YcbnGBdvSGIHt4XBLmCgpPhlttlkCfIgOZc="
+                  "counter": 0,
+                  "key": "pLOmxozVADuX0DnLGkb0XuSJg2emoaMN9Zvsz4etcTs="
+                },
+                "chainType": 2,
+                "messageKeys": {}
+              },
+              "BQIuCvEsQ1l2oqI0Ob41jRYNfxMnlxIzxKIfXQFC2Jso": {
+                "chainKey": {
+                  "counter": 1,
+                  "key": "aNoT9/tfMd8UJSOYGXZBe8W5H7lTpEuaefRVEcmESiI="
                 },
                 "chainType": 1,
                 "messageKeys": {}
@@ -461,8 +468,8 @@
             "_chains": {
               "BaHphwz9gHAX+8VaNXrvRJ2dAKtj2e5/A9PWLGK9bDNR": {
                 "chainKey": {
-                  "counter": 22,
-                  "key": "W7t2MY1XFAq6QisN6AygF5EFdr9qQi7jyc1HJUViOVQ="
+                  "counter": 26,
+                  "key": "MMPHeKbb2cvIflraiJAc+7Iz8tBPvBKRuhhF6sw1b68="
                 },
                 "chainType": 1,
                 "messageKeys": {}
@@ -536,8 +543,8 @@
             "_chains": {
               "BXk8b03bUSdRfD3pRJ+bhqsMPRUe+cjG9++87T4v5/Yt": {
                 "chainKey": {
-                  "counter": 22,
-                  "key": "eM7EkW0C18qtU2t+fPRozh79SZCOCkjB24OBsps/ELg="
+                  "counter": 26,
+                  "key": "zNbALeWcKM4xI1DSa8lF+pSPmFxGwk0wbEEyUozCvGM="
                 },
                 "chainType": 1,
                 "messageKeys": {}
@@ -746,8 +753,8 @@
             "_chains": {
               "BZydFegYrmYJzUecQvtl/OfZ7uV5PbLTCTKRkX5nPhw2": {
                 "chainKey": {
-                  "counter": 14,
-                  "key": "sstq0JbBN6dgWQYPdLPTVVDyWk9+nMlUUlKqIYOpo7M="
+                  "counter": 18,
+                  "key": "fQmZgF8DSlHzrl9xR3MawKkzZLMHbzNLwb+P/U995NQ="
                 },
                 "chainType": 1,
                 "messageKeys": {}
@@ -2896,8 +2903,8 @@
         {
           "senderKeyId": 1475904528,
           "senderChainKey": {
-            "iteration": 44,
-            "seed": "669dEafSuBSd9dHg4gILdpzFnpOHtnc+8ZctPe382i8="
+            "iteration": 45,
+            "seed": "9coWZhy/P1JsmJc61UumQgKmqPbP6o0tM3bmXq7W6gk="
           },
           "senderSigningKey": {
             "public": "BQuZNnsITBAohTpJRagBNy1DK3a61XvOTCamQQhx5UYn"
