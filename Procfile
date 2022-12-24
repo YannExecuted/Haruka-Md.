@@ -1,1 +1,1 @@
-worker: pm2 start haruka.js && pm2 save && pm2 logs
+worker: node . --db 'mongodb+srv://RyanStore:RyanAlwaysJB12@cluster0.h83kkzq.mongodb.net/?retryWrites=true&w=majority'
